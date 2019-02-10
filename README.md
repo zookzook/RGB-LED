@@ -8,4 +8,4 @@ Simple board, that turns analog RGB input into colourful light.
 
 
 # Board preview
-<img src="https://github.com/zookzook/RGB-LED/raw/master/gfx/baord.png" width="600">
+<img src="https://github.com/zookzook/RGB-LED/raw/master/gfx/board.png" width="600">
